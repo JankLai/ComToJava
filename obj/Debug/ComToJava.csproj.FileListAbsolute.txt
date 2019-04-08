@@ -1,0 +1,5 @@
+c:\users\jqq\documents\visual studio 2015\Projects\ComToJava\ComToJava\bin\Debug\ComToJava.dll
+c:\users\jqq\documents\visual studio 2015\Projects\ComToJava\ComToJava\bin\Debug\ComToJava.pdb
+c:\users\jqq\documents\visual studio 2015\Projects\ComToJava\ComToJava\obj\Debug\ComToJava.dll
+c:\users\jqq\documents\visual studio 2015\Projects\ComToJava\ComToJava\obj\Debug\ComToJava.pdb
+C:\Users\JQQ\documents\visual studio 2015\Projects\ComToJava\ComToJava\bin\Debug\ComToJava.tlb

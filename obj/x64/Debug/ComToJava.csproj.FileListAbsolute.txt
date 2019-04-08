@@ -3,3 +3,4 @@ C:\Users\JQQ\documents\visual studio 2015\Projects\ComToJava\ComToJava\bin\x64\D
 C:\Users\JQQ\documents\visual studio 2015\Projects\ComToJava\ComToJava\bin\x64\Debug\ComToJava.tlb
 C:\Users\JQQ\documents\visual studio 2015\Projects\ComToJava\ComToJava\obj\x64\Debug\ComToJava.dll
 C:\Users\JQQ\documents\visual studio 2015\Projects\ComToJava\ComToJava\obj\x64\Debug\ComToJava.pdb
+C:\Users\JQQ\documents\visual studio 2015\Projects\ComToJava\ComToJava\obj\x64\Debug\ComToJava.csprojResolveAssemblyReference.cache
